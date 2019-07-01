@@ -1,2 +1,2 @@
 # Logica_Pg_Game
-# Este Game foi criado na disciplina de logica de programação.
+# Este game foi criado na disciplina de lógica de programação.
